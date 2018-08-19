@@ -2,7 +2,7 @@
 
 | **master** | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-catalog.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-catalog) |
 | ----- | ----- |
-| **dev** | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-catalog.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-catalog) |
+| **dev** | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-catalog.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-catalog) [![Greenkeeper badge](https://badges.greenkeeper.io/Themandunord/cloudco-insurance-catalog.svg)](https://greenkeeper.io/) |
 
 This service is part of the larger [Cloud Insurance Co.](https://github.com/IBM-Bluemix/cloudco-insurance) project.
 
